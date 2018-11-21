@@ -1,0 +1,14 @@
+// Add fontawesome
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+// Add Bootstrap 4 Functions
+@import "~bootstrap/scss/functions";
+
+// Add customized Bootstrap 4 Variables
+@import "variables";
+
+// Bootstrap 4
+@import "~bootstrap/scss/bootstrap";

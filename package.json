@@ -1,0 +1,41 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "title": "Bootstrap Template",
+  "description": "Bootstrap 4 Template with node and npm",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "bootstrap": "^4.1.0",
+    "cross-env": "^5.2",
+    "jquery": "^3.3.0",
+    "laravel-mix": "^2.1.0",
+    "popper.js": "^1.14.0"
+  },
+  "keywords": [
+    "template",
+    "bootstrap",
+    "node",
+    "npm",
+    "laravel-mix"
+  ],
+  "author": {
+    "name": "Khaled Huthaily, CarryLinks",
+    "url": "https://carrylinks.com/about"
+  },
+  "maintainers": [
+    {
+      "name": "Khaled Huthaily",
+      "email": "khaled.huthaily@carrylinks.com",
+      "url": "https://github.com/khuthaily"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/khuthaily"
+  }
+}
