@@ -2,7 +2,7 @@
 This is a template based on *Twitter Bootstrap 4* and uses *Fontawesome 5*. It utilizes the simplicity of *Laravel-Mix 5* to manage _npm_ packages.
 
 # Why
-This template is based on <a href="https://getbootstrap.com/docs/4.1/examples/starter-template/" target="_blank">Bootstrap's Startup Template</a> but it allows you to easily and quickly:
+This template is based on <a href="https://getbootstrap.com/docs/4.4/examples/starter-template/" target="_blank">Bootstrap's Startup Template</a> but it allows you to easily and quickly:
 
 - use `Sass` to customize *Bootstrap*
 - use and manage `npm` packages
